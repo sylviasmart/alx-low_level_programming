@@ -8,6 +8,6 @@ int main(void)
 	int a; 
 	long intb; 
 	long long int c; 
-	chard d; 
+	char d; 
 	float f;
 }
