@@ -17,11 +17,11 @@ int main(void)
 				putchar((f % 10) + 48);
 				putchar(' ');
 				putchar((s / 10) + 48);
-				putchar((s % 10) + 48); 
+				putchar((s % 10) + 48);
 				if (f != 98 || s != 99)
 				{
 					putchar(',');
-					putchar(' ')
+					putchar(' ');
 				}
 			}
 		}
