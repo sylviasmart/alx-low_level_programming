@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * _putchar
- * print char
+ *@c: print char
+ * 
  * Return: 0
  */
 
