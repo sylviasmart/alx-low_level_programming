@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main - check the code
- **
+ * _islower - checks for lowercase character
+ * @c: The character is checked
+ *
  * Return: Always 0.
  */
-int main(void)
+int _islower(int c)
 {
 	print_alphabet();
 	return (0);
